@@ -1,0 +1,4 @@
+PS D:\projects_vansh\module3\PROJ110> & C:/Users/HP/AppData/Local/Programs/Python/Python38-32/python.exe d:/projects_vansh/module3/PROJ110/code.py
+Mean of sampling distribution :- 3.93773
+Standard deviation of sampling distribution:-  0.03576481053371474
+PS D:\projects_vansh\module3\PROJ110>
